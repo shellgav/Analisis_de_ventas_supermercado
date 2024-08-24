@@ -1,0 +1,2 @@
+# Analisis_de_ventas_supermercado
+PROYECTO ANÁLISIS DE VENTAS HISTÓRICAS DE UN SUPERMERCADO, MODULO 2
